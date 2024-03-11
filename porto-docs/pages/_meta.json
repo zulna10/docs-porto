@@ -1,0 +1,15 @@
+{
+    "index": {
+      "title": "Home",
+      "type": "page"
+    },
+    "mainnet": {
+      "title": "Mainnet",
+      "type": "page"
+    },
+    "testnet": {
+      "title": "Testnet",
+      "type": "page"
+    }
+  }
+  
